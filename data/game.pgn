@@ -1,0 +1,21 @@
+[Event "Battle Komunitas Provinsi ll Team Battle"]
+[Site "https://lichess.org/NLNEkggU"]
+[Date "2021.06.15"]
+[White "Afwan"]
+[Black "BIS_SUMBER_BENCONO"]
+[Result "0-1"]
+[UTCDate "2021.06.15"]
+[UTCTime "13:36:57"]
+[WhiteElo "2192"]
+[BlackElo "2277"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "240+0"]
+[ECO "D25"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 { D25 Queen's Gambit Accepted: Normal Variation } e5? { (0.13 → 1.74) Mistake. e6 was best. } (4... e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Qxd1 8. Rxd1 Bxc5 9. Be2) 5. Nxe5 b5 6. a4 Bb4+ 7. Bd2 Bxd2+ 8. Nxd2 c6 9. axb5 cxb5 10. Qf3 Qd5 11. Qg3?! { (1.99 → 1.35) Inaccuracy. Qxd5 was best. } (11. Qxd5 Nxd5) 11... O-O 12. Be2 Bf5?? { (1.36 → 5.48) Blunder. Qd8 was best. } (12... Qd8 13. Bf3) 13. Bf3 Be4 14. Nxe4 Nxe4 15. Qf4 f5 16. O-O?? { (5.19 → 1.02) Blunder. g4 was best. } (16. g4 Nd7 17. gxf5 Nxe5 18. Qxe5 Qxe5 19. dxe5 Nxf2 20. Bd5+ Kh8 21. Bxa8 Nd3+ 22. Ke2 Rxa8) 16... Nd7 17. Nxd7 Qxd7 18. Bxe4 fxe4 19. Qxe4 Rfe8 20. Qf4?! { (0.94 → 0.20) Inaccuracy. Qc2 was best. } (20. Qc2) 20... a5 21. Rfd1 Rf8 22. Qg3 Qd5 23. f3 c3?? { (-0.60 → 2.14) Blunder. b4 was best. } (23... b4 24. Qe1) 24. bxc3 a4?! { (1.95 → 2.70) Inaccuracy. Qb3 was best. } (24... Qb3) 25. e4?! { (2.70 → 1.86) Inaccuracy. Ra3 was best. } (25. Ra3) 25... Qb3 26. Rdc1 a3 27. Qf2 Rfc8 28. Qc2?? { (1.59 → -3.01) Blunder. Qa2 was best. } (28. Qa2 Qxa2) 28... Qxc2 29. Rxc2 b4 30. Rb1? { (-2.92 → -5.42) Mistake. Rca2 was best. } (30. Rca2 Rxc3) 30... a2? { (-5.42 → -3.26) Mistake. Rxc3 was best. } (30... Rxc3) 31. Ra1 b3 32. Rb2 Rxc3 33. h3 Rac8 { White resigns. } 0-1
+
